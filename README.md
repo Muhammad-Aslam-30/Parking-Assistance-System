@@ -3,8 +3,7 @@
 For this project, the plan is to use an Arduino with an ultrasonic sensor and a beeper to signal the distance to the objects by differing the beeper's tone frequencies. Below, is the circuit diagram for the task.
 
 # Circuit diagram
-
-Circuit diagram.png
+<img width="416" alt="Circuit-diagram" src="https://user-images.githubusercontent.com/102525782/173813035-45c9a8c1-abc5-418f-9655-0d6244ad6ae5.png">
 
 # Hardware requirements
 
