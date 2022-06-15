@@ -8,4 +8,4 @@ For this project, the plan is to use an Arduino with an ultrasonic sensor and a 
 
 # Hardware requirements
 
-Arduino Uno board, Ultrasonic sensor HC-SR04, Beeper 780-0712, Breadboard, 1K ohm resistor, Transistor, 9V battery with connector, number of connecting wires - 10
+Arduino Uno board, USB cable for Arduino, Ultrasonic sensor HC-SR04, Beeper 780-0712, Breadboard, 1K ohm resistor, Transistor, 9V battery with connector, number of connecting wires - 10
