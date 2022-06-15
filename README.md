@@ -4,7 +4,7 @@ For this project, the plan is to use an Arduino with an ultrasonic sensor and a 
 
 # Circuit diagram
 
-
+![Screenshot](Circuit diagram.png)
 
 # Hardware requirements
 
