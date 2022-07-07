@@ -42,12 +42,11 @@ RED        | D4 (Digital Pin Four)
 RED        | D5 (Digital Pin Five)
 WHITE        | D6 (Digital Pin Six)
 
-![cablehookup](pic/ard_d.jpg)
-![cablehookup](pic/ard_p.jpg)
-![cablehookup](pic/ultr.jpg)
-![cablehookup](pic/buzzer.jpg)
-
-![ard_d](https://user-images.githubusercontent.com/102525782/177777536-32a583ac-c45a-4d1a-886c-2aa9d8d9ea60.jpg)
+![ard_p](https://user-images.githubusercontent.com/102525782/177777801-391e3d6f-c392-4de4-a867-fd28c0cce340.jpg)
+![ultr](https://user-images.githubusercontent.com/102525782/177777788-195bb074-4a95-436f-9255)
+![buzzer](https://user-images.githubusercontent.com/102525782/177777803-aee116f8-4ec1-4c1b-8680-63e03e4eaff1.jpg)
+-66e8d3fe32f4.jpg)
+![ard_d](https://user-images.githubusercontent.com/102525782/177777797-ba4336d7-425e-43a1-a4a9-7a59a26791eb.jpg)
 
 
 ## Variables to Note
