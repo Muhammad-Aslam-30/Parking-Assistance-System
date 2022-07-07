@@ -47,6 +47,8 @@ WHITE        | D6 (Digital Pin Six)
 ![cablehookup](pic/ultr.jpg)
 ![cablehookup](pic/buzzer.jpg)
 
+![ard_d](https://user-images.githubusercontent.com/102525782/177777536-32a583ac-c45a-4d1a-886c-2aa9d8d9ea60.jpg)
+
 
 ## Variables to Note
 Variable Name     | What it does
