@@ -42,11 +42,10 @@ RED        | D4 (Digital Pin Four)
 RED        | D5 (Digital Pin Five)
 WHITE        | D6 (Digital Pin Six)
 
-![ard_p](https://user-images.githubusercontent.com/102525782/177777801-391e3d6f-c392-4de4-a867-fd28c0cce340.jpg)
-![ultr](https://user-images.githubusercontent.com/102525782/177777788-195bb074-4a95-436f-9255)
-![buzzer](https://user-images.githubusercontent.com/102525782/177777803-aee116f8-4ec1-4c1b-8680-63e03e4eaff1.jpg)
--66e8d3fe32f4.jpg)
-![ard_d](https://user-images.githubusercontent.com/102525782/177777797-ba4336d7-425e-43a1-a4a9-7a59a26791eb.jpg)
+![ultr](https://user-images.githubusercontent.com/102525782/177778061-f6af4295-fb47-4cef-bc99-31b18fd6f912.jpg)
+![ard_d](https://user-images.githubusercontent.com/102525782/177778072-bb642163-3e89-4187-acd6-5cf8e56e19a2.jpg)
+![ard_p](https://user-images.githubusercontent.com/102525782/177778078-6f9e4f13-a746-4270-be3d-1a65b6a61c62.jpg)
+![buzzer](https://user-images.githubusercontent.com/102525782/177778084-b6b2d0fd-3f58-426e-97d6-3eed141df7fe.jpg)
 
 
 ## Variables to Note
