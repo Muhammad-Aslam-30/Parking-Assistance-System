@@ -6,13 +6,7 @@ For this project, the plan is to use an Arduino with an ultrasonic sensor and a 
 
 <img width="416" alt="Circuit-diagram" src="https://user-images.githubusercontent.com/102525782/173813035-45c9a8c1-abc5-418f-9655-0d6244ad6ae5.png">
 
-# Hardware requirements
-
-Arduino Uno board, USB cable for Arduino, Ultrasonic sensor HC-SR04, Beeper 780-0712, Breadboard, 1K ohm resistor, Transistor, 9V battery with connector, number of connecting wires - 10
-
-
-# Embedded-Systems-Parking-Assistance-System-
-## Parking Assistance System using <a href="http://arduino.cc/"> "Arduino"</a> 
+## Features
 * The system activates as soon as it is supplied with power.   
 * It is connected to a beeper which gets triggered in four different ways depending on the situation.
 * Beeps with a delay of 100 milliseconds when the distance between the Ultrasonic sensor and the object is between 0-10 cm.
@@ -46,10 +40,3 @@ WHITE        | D6 (Digital Pin Six)
 ![ard_d](https://user-images.githubusercontent.com/102525782/177778072-bb642163-3e89-4187-acd6-5cf8e56e19a2.jpg)
 ![ard_p](https://user-images.githubusercontent.com/102525782/177778078-6f9e4f13-a746-4270-be3d-1a65b6a61c62.jpg)
 ![buzzer](https://user-images.githubusercontent.com/102525782/177778084-b6b2d0fd-3f58-426e-97d6-3eed141df7fe.jpg)
-
-
-## Variables to Note
-Variable Name     | What it does
-------------------| -------------
-distance            | **Int** that holds the value of distance in centimeters.
-duration               | **Long** 
